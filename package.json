@@ -36,7 +36,7 @@
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.2.0",
-    "sequelize": "^4.27.0",
+    "sequelize": "^5.15.1",
     "sequelize-cli": "^3.2.0",
     "serve-favicon": "~2.4.5",
     "webpack": "^3.10.0"
